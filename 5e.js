@@ -1,0 +1,1 @@
+var cos = console.log("")
